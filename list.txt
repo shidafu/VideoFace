@@ -149,3 +149,5 @@ A16\02.jpg 16
 A16\03.jpg 16
 A16\04.jpg 16
 A16\05.jpg 16
+new\01.jpg
+new\02.jpg
